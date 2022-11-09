@@ -1,0 +1,43 @@
+body{
+	background-image:linear-gradient(45deg,orange ,red,blue );
+}
+.form{
+	width:50%;
+	background-color:white;
+	border-radius:25px;
+	text-align:left;
+}
+.head{
+	width:100%;
+	background-color:purple;
+
+}
+fieldset{
+	border-radius:25px;
+	border:transparent;
+}
+.head h1{
+	color:white;
+}
+label{
+	font-family:ui-sans-serif;
+	font-size:25px;
+}
+input{
+  width: 80%;
+  padding: 12px 20px;
+  margin:10px;
+  border-radius:5px;
+  
+
+}
+p{
+	opacity:80%;
+	
+}
+
+.button{
+	background-color:purple;
+	
+	color:white;
+}
